@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596575741 source:c:\temp\codeblocks-ws\exercício2\main.cpp
+	<iostream>
+	<assert.h>
+	<stdlib.h>
+
